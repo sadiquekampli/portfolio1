@@ -3,9 +3,6 @@
 💻 Aspiring Software Developer | IT Student | Passionate Learner  
 🚀 Interested in Java, Python, Web Development & AI  
 📍 Solapur, Maharashtra, India  
-📫 Email: ayan381@gmail.com  
-🌐 Portfolio: https://sites.google.com/view/ms-personalpage/home  
-🔗 LinkedIn: https://www.linkedin.com/in/m-sadique-kampli-434580382
 
 ---
 
@@ -111,18 +108,18 @@ To obtain a challenging position in the IT industry where I can apply my technic
 
 ---
 
-## 📫 Contact Me
-
-- 📧 Email: ayan381@gmail.com  
-- 📱 Phone: 8767363653  
-- 🌐 Portfolio: https://sites.google.com/view/ms-personalpage/home  
-- 🔗 LinkedIn: https://www.linkedin.com/in/m-sadique-kampli-434580382
-
----
-
 ## 🚀 Goals
 
 - Become a successful Software Engineer  
 - Work on real-world innovative projects  
 - Keep learning modern technologies  
 - Build impactful software solutions
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: ayan381@gmail.com  
+- 📱 Phone: 8767363653  
+- 🌐 Portfolio: https://sites.google.com/view/ms-personalpage/home  
+- 🔗 LinkedIn: https://www.linkedin.com/in/m-sadique-kampli-434580382
