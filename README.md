@@ -4,6 +4,8 @@
 🚀 Interested in Java, Python, Web Development & AI  
 📍 Solapur, Maharashtra, India  
 📫 Email: ayan381@gmail.com  
+🌐 Portfolio: https://sites.google.com/view/ms-personalpage/home  
+🔗 LinkedIn: https://www.linkedin.com/in/m-sadique-kampli-434580382
 
 ---
 
@@ -113,6 +115,8 @@ To obtain a challenging position in the IT industry where I can apply my technic
 
 - 📧 Email: ayan381@gmail.com  
 - 📱 Phone: 8767363653  
+- 🌐 Portfolio: https://sites.google.com/view/ms-personalpage/home  
+- 🔗 LinkedIn: https://www.linkedin.com/in/m-sadique-kampli-434580382
 
 ---
 
